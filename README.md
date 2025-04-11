@@ -16,7 +16,7 @@ A simple Flutter application for converting numbers between different bases (bin
 
 ## Screenshots
 
-![Interface](https://i.ibb.co/0y1T1X1x/Capturar.png)
+![Interface](./images/Capturar.png)
 
 ## Installation
 
