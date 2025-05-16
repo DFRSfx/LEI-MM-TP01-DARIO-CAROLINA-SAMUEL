@@ -20,7 +20,7 @@ A simple Flutter application for converting numbers between different bases (bin
 
 ## Installation
 
-1. Ensure you have Flutter installed on your machine
+1. Ensure you have Flutter and Dart installed on your machine
 2. Clone this repository
 3. Run `flutter pub get` to install dependencies
 4. Run `flutter run` to launch the app
