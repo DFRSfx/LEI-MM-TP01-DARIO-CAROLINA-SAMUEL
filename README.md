@@ -55,4 +55,4 @@ The app automatically restricts input based on the selected "From Base":
 
 ## License
 
-(MIT or other license you choose)
+MIT License with Non-Commercial Clause
