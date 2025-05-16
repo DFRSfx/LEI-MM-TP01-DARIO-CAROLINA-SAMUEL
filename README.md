@@ -51,6 +51,7 @@ The app automatically restricts input based on the selected "From Base":
 ## Dependencies
 
 - Flutter SDK
+- Dart SDK
 - Material Design package (included with Flutter)
 
 ## License
